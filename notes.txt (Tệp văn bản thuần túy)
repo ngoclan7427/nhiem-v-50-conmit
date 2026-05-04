@@ -8,4 +8,4 @@ Ghi chú học tập Git:
 - git add .: Thêm tất cả thay đổi
 - git commit -m "tin nhắn": Lưu thay đổi
 - git push: Đẩy code lên server
-- Lưu ý: Luôn để repo ở chế độ Public để được tính đóng góp.
+
