@@ -3,3 +3,6 @@ node_modules/
 .DS_Store
 *.log
 __pycache__/
+# Bỏ qua các tệp không cần thiết
+.env
+node_modules/
