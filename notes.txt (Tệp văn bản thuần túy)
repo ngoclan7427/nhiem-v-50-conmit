@@ -5,3 +5,5 @@ Danh sách việc cần làm:
 4. Hoàn thành nhiệm vụ xác thực.
 Ghi chú học tập Git:
 - git init: Khởi tạo repo
+- git add .: Thêm tất cả thay đổi
+- git commit -m "tin nhắn": Lưu thay đổi
