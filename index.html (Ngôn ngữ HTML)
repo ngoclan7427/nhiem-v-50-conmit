@@ -2,3 +2,9 @@
 <html>
 <head>
     <title>Trang web cá nhân</title>
+</head>
+<body>
+    <h1>Chào mừng đến với trang của tôi</h1>
+    <p>Đây là một commit dành cho nhiệm vụ GitHub.</p>
+</body>
+</html>
