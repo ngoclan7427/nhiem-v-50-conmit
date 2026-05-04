@@ -5,8 +5,6 @@
     "tags": ["git", "github", "coding"]
 }
 {
- 
-    "id": 101,
  "username": "github_ninja",
     "skills": ["HTML", "CSS", "JavaScript", "Python"],
     "completed_tasks": 15,
