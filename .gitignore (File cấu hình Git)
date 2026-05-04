@@ -6,7 +6,7 @@ __pycache__/
 # Bỏ qua các tệp không cần thiết
 .env
 node_modules/
-dist/
+
 *.log
 .DS_Store
 
