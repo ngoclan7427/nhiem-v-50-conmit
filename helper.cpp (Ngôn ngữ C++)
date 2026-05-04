@@ -16,5 +16,4 @@ int main() {
         cout << n << " là số chẵn." << endl;
     else
 cout << n << " là số lẻ." << endl;
-    return 0;
-}
+
