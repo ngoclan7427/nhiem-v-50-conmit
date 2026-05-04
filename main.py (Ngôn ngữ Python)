@@ -1,2 +1,4 @@
 def hello_world():
     print("Chào mừng bạn đến với thế giới lập trình!")
+if __name__ == "__main__":
+    hello_world()
