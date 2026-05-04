@@ -1,3 +1,5 @@
 # Bỏ qua các file rác
 node_modules/
 .DS_Store
+*.log
+__pycache__/
