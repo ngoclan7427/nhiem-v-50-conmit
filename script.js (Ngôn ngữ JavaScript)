@@ -11,3 +11,7 @@ function sayHello() {
 if (hours < 12) greeting = "Chào buổi sáng!";
     else if (hours < 18) greeting = "Chào buổi chiều!";
     else greeting = "Chào buổi tối!";
+ console.log(greeting + " Chúc bạn hoàn thành nhiệm vụ GitHub sớm!");
+}
+
+sayHello();
