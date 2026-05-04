@@ -2,3 +2,5 @@ console.log("Hệ thống đã kết nối thành công!");
 
 function add(a, b) {
     return a + b;
+}
+console.log("Tổng 5 + 10 là: " + add(5, 10));
