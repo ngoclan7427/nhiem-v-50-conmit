@@ -14,4 +14,4 @@ if (hours < 12) greeting = "Chào buổi sáng!";
  console.log(greeting + " Chúc bạn hoàn thành nhiệm vụ GitHub sớm!");
 }
 
-sayHello();
+
