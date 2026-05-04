@@ -7,3 +7,4 @@ def tinh_tong(n):
     return sum(range(1, n + 1))
 n = 100
 print(f"Tổng các số từ 1 đến {n} là: {tinh_tong(n)}")
+# Thử thách: Bạn có thể sửa n thành số khác và commit lại!
