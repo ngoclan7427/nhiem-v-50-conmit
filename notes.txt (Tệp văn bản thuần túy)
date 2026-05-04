@@ -7,5 +7,5 @@ Ghi chú học tập Git:
 - git init: Khởi tạo repo
 - git add .: Thêm tất cả thay đổi
 - git commit -m "tin nhắn": Lưu thay đổi
-- git push: Đẩy code lên server
+
 
