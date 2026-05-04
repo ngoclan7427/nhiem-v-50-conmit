@@ -6,3 +6,12 @@ int main() {
 }
 #include <iostream>
 using namespace std;
+// Thuật toán kiểm tra số chẵn lẻ
+int main() {
+    int n;
+    cout << "Nhập một số nguyên: ";
+    // Giả sử n = 10
+    n = 10; 
+    if (n % 2 == 0)
+        cout << n << " là số chẵn." << endl;
+    else
