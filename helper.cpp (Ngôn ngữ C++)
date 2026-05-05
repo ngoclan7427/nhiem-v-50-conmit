@@ -15,5 +15,5 @@ int main() {
     if (n % 2 == 0)
         cout << n << " là số chẵn." << endl;
     else
-cout << n << " là số lẻ." << endl;
+
 
