@@ -5,6 +5,6 @@ if __name__ == "__main__":
 # Chương trình tính tổng các số từ 1 đến n
 def tinh_tong(n):
     return sum(range(1, n + 1))
-n = 100
+
 
 
